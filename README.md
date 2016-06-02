@@ -4,7 +4,7 @@
 HashStack is a collection of software profiles that builds on various architectures (Linux, Windows, Mac, clusters, ...) and allows optional reuse of system-wide packages (compilers, LAPACK, Python, ...).
 
 To build these profiles, you need the [hit](https://github.com/hashdist/hashdist) tool from HashDist.
-Read [hit's documentation](http://hashdist.readthedocs.org/) about how to use it.
+Read [hit's documentation](https://hashdist.readthedocs.io/) about how to use it.
 
 ## Usage
 
